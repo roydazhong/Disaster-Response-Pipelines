@@ -1,4 +1,5 @@
-#Disaster Response Pipeline Project
+##Disaster Response Pipeline Project
+
 This pipeline is an app that classifies messages in order for help to be arranged more efficiently.
 
 Typically after a natural disaster, the government may receive many information (such as tweets) from people who needs help, and since the matters are urgent, it is very important to develop a tool that classify the messages correctly and efficiently so the help can be arranged on time.
